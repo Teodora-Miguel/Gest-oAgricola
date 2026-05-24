@@ -1,0 +1,6 @@
+C:\Users\Teodora M Domingos\Desktop\DORA\2º SEMESTRE POO\SistemaGestãoCooperativaAgrícola\SistemaGestãoCooperativaAgrícola\bin\Debug\SistemaGestãoCooperativaAgrícola.exe.config
+C:\Users\Teodora M Domingos\Desktop\DORA\2º SEMESTRE POO\SistemaGestãoCooperativaAgrícola\SistemaGestãoCooperativaAgrícola\obj\Debug\SistemaGestãoCooperativaAgrícola.csprojResolveAssemblyReference.cache
+C:\Users\Teodora M Domingos\Desktop\DORA\2º SEMESTRE POO\SistemaGestãoCooperativaAgrícola\SistemaGestãoCooperativaAgrícola\bin\Debug\SistemaGestãoCooperativaAgrícola.exe
+C:\Users\Teodora M Domingos\Desktop\DORA\2º SEMESTRE POO\SistemaGestãoCooperativaAgrícola\SistemaGestãoCooperativaAgrícola\bin\Debug\SistemaGestãoCooperativaAgrícola.pdb
+C:\Users\Teodora M Domingos\Desktop\DORA\2º SEMESTRE POO\SistemaGestãoCooperativaAgrícola\SistemaGestãoCooperativaAgrícola\obj\Debug\SistemaGestãoCooperativaAgrícola.exe
+C:\Users\Teodora M Domingos\Desktop\DORA\2º SEMESTRE POO\SistemaGestãoCooperativaAgrícola\SistemaGestãoCooperativaAgrícola\obj\Debug\SistemaGestãoCooperativaAgrícola.pdb
